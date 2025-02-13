@@ -18,7 +18,7 @@
 
 ⭐ **Certifications**: Hopefully, PNPT in a few months.
 
-📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
+📝 **Credits**: Huge credits to cr0w since I copied this profile formatting from him, and also he has taught me a lot in malware development with his youtube videos.
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,docker)](https://skillicons.dev)
