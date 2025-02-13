@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `python`
 
 - `💉` **`Its You`**<br>
-\\___[ A Horror game where an AI copies your voice as you talk to your friends, mutes you and starts pretending to be you, your friends never know.<br>
+\\___[ A Horror game where an AI copies your voice as you talk to your friends.<br>\\____mutes you and starts pretending to be you. your friends will never know.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `C++`, `C#`, `python`
 
 - `🐔` **`V2T`**<br>
