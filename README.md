@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=thin&duration=4998&pause=1000&color=0BAC8A&background=FF000000&width=435&lines=Cooking+eggs+8+different+ways;Reading+%22The+Prince%22;Developing+%22Its+You%22;{!false}+its+funny+because+its+true)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=thin&duration=4998&pause=1000&color=0BAC8A&background=FF000000&width=435&lines=Cooking+eggs+8+different+ways;Reading+%22The+Prince%22;Developing+%22Its+You%22;you+know+what+?+{!false}+its+funny+because+its+true)](https://git.io/typing-svg)
 
 💬 **Me**: Lover of Cooking, Also An offensive security enthusiast focusing on Peneteration Testing, operating system internals, Malware Development, and red teaming.
 
