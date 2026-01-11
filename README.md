@@ -20,9 +20,9 @@
 \\___[ custom operating system made from scratch.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
 
-⭐ **Certifications**: Hopefully, PNPT in a few months.
+⭐ **Certifications**: PNPT, CPTS(In Progress)
 
-📝 **Credits**: Huge credits to cr0w since I copied this profile formatting from him, and also he has taught me a lot in malware development with his youtube videos.
+📝 **Credits**: Huge credits to cr0w since I copied this profile formatting from him.
 
 ## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=c,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,java)](https://skillicons.dev)
