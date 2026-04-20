@@ -18,7 +18,7 @@
 
 ⭐ **Certifications**: PNPT, CPTS(In Progress)
 
-📝 **Credits**: Huge credits to cr0w since I copied this profile formatting from him.
+📝 **Credits**: Huge credits to [cr0w](https://github.com/cr-0w) since I copied this profile formatting from him.
 
 ## `👨‍💻` DEVELOPMENT
 [![](https://skillicons.dev/icons?i=c,cs,python,bash,powershell,dotnet,neovim,vim,visualstudio,vscode,arch,windows,github,java)](https://skillicons.dev)
