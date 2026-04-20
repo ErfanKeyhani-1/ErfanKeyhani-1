@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=thin&duration=4998&pause=1000&color=0BAC8A&background=FF000000&width=435&lines=Cooking+eggs+8+different+ways;Reading+%22The+Prince%22;Developing+%22Its+You%22;{!false}+its+funny+because+its+true)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=true&width=435&separator=%3D&lines=%5B*%5D+Learning...%3D%5B*%5D+Still+learning...%3D%3CScRiPt%3Ealert(1)%3C%2FScrIpT%3E%3DHey+I'm+Mr.+3%3DBody+jab%2C+upper%2C+overhand%3A+BOOM%3D%5B%2B%5D+Bypassing+WDAC%3DsetUserSPNs.py+-GET-EM%3Dnxc+winrm+10%2F24+-do+%22GRANT+ME+ACCESS%22%3D((void(*)())VirtualAllocMem)();%3D%5B*%5D+Injecting+DLL...%3Dnmap+-sBYPASSWAF%3D%5B%2B%5D+No+traces+left...)](https://git.io/typing-svg)
 
 💬 **Me**: Lover of Cooking, Also An offensive security enthusiast focusing on Peneteration Testing, operating system internals, Malware Development, and red teaming.
 
@@ -8,13 +8,9 @@
 \\___[ AI Powered Real-Time note taker.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `python`
 
-- `💉` **`Its You`**<br>
-\\___[ A Horror game where an AI copies your voice as you talk to your friends.<br>\\____mutes you and starts pretending to be you. your friends will never know.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `C++`, `C#`, `python`
-
-- `🐔` **`V2T`**<br>
-\\___[ An AI powered ctrl+f for Videos, with subject based answers<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `C`, `python`
+- `🐔` **`EAADL-v1`**<br>
+\\___[ An Advanced Active Directory Hacking lab, featuring 3 Machines, 2 forests 2 Domains 1 Subdomain<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `WSUS Abuse`, `ADCS attacks`, `EDR Evasion`, `WDAC Bypass`
 
 - `🐧` **`ErfanOS`**<br>
 \\___[ custom operating system made from scratch.<br>
