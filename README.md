@@ -4,10 +4,6 @@
 
 🌱 **Projects**:
 
-- `💉` **`NotEr`**<br>
-\\___[ AI Powered Real-Time note taker.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `python`
-
 - `🐔` **`EAADL-v1`**<br>
 \\___[ An Advanced Active Directory Hacking lab, featuring 3 Machines, 2 forests 2 Domains 1 Subdomain<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `WSUS Abuse`, `ADCS attacks`, `EDR Evasion`, `WDAC Bypass`
